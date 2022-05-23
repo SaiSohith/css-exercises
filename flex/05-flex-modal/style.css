@@ -16,6 +16,9 @@ body {
 }
 
 .modal {
+  display: flex;
+  /* flex-direction: column; */
+  gap: 30px;
   background: white;
   width: 480px;
   border-radius: 10px;
